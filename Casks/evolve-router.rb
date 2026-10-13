@@ -9,6 +9,5 @@ cask "evolve-router" do
 
   app "EvolveRouter.app"
 
-  depends_on macos: ">= :ventura"
-  conflicts_with cask: "evolve-router"
+  depends_on macos: :ventura
 end
