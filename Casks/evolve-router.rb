@@ -1,6 +1,6 @@
 cask "evolve-router" do
-  version "0.1.3"
-  sha256 "b849e6cbcc3f2b1e532ddecfa36dea22563d67d86a530c21e6ed0b18f11eac7d"
+  version "0.1.4"
+  sha256 "2069a737eac6decf05a328237110f575047c37f3c917840add8b38a4f2a9173a"
 
   url "https://github.com/holny/evolve-router/releases/download/v#{version}/EvolveRouter-v#{version}-macos-universal2.zip"
   name "EvolveRouter"
